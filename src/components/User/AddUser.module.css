@@ -25,3 +25,9 @@
   outline: none;
   border-color: #4f005f;
 }
+@media (min-width: 768px) {
+  .response {
+    left: calc(50% - 20rem);
+    width: 40rem;
+  }
+}
